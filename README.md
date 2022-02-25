@@ -1,5 +1,5 @@
 # RPSLS
-CS 342: Rock Paper Scissors Lizard Spock (Version 1). Classic Rock Paper Scissors game with two added choices. Networked game with a server equipped to handle 2 clients. Multiple GUIs with different scenes.
+Rock Paper Scissors Lizard Spock (Version 1). Classic Rock Paper Scissors game with two added choices. Networked game with a server equipped to handle 2 clients. Multiple GUIs with different scenes.
 
 Write-up:
 You will implement the game Rock, Paper, Scissors, Lizard, Spock. This is just an
